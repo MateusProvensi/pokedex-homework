@@ -6,7 +6,7 @@ The Pokédex is a Pokémon encyclopedia. This repository is a simple Pokédex, a
 
 Each type of Pokémon has a color, and this can be seen in the 'CSS' file.
 
-## 👨‍💻👩‍💻 How I can put on my machine?
+## 👨‍💻👩‍💻 How can I put on my machine?
 For this project, will be need to have the extension 'Live server' in the Visual Studio Code.
 
 1. Clone this repository with the command:
